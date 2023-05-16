@@ -11,7 +11,7 @@ My dream is to contribute code to make the world a better, safer and more unbias
 Outside of tech, I love animals, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
 
 ## Connect
-![linkedin](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
