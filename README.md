@@ -1,5 +1,10 @@
 ### Thanks for visiting my Github Page! 👋
 
+---
+<p align='center'>
+  <img src='' width='100%' title='jamesCodes808 Intro Card' alt='jamesCodes808 Intro Card'>
+</p>
+
 ## About Me 
 
 As a full-stack developer, I understand the importance of creating a seamless flow between the front and back-end aspects of an application. I have a keen eye for aesthetics and user experience. 
@@ -10,8 +15,8 @@ My dream is to contribute code to make the world a better, safer and more unbias
 
 Outside of tech, I love animals, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
 
-## Connect
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+## Tech & Tools 
+
 
 
 <!--
