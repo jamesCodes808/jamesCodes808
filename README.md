@@ -1,6 +1,7 @@
 ### Thanks for visiting my Github Page! 👋
 
 ---
+
 <p align='center'>
   <img src='' width='100%' title='jamesCodes808 Intro Card' alt='jamesCodes808 Intro Card'>
 </p>
@@ -9,11 +10,13 @@
 
 As a full-stack developer, I understand the importance of creating a seamless flow between the front and back-end aspects of an application. I have a keen eye for aesthetics and user experience. 
 
-I'm currently making a living with my programming and problem-solving skills to debug code, identifying, addressing, troubleshooting and resolving issues at both the front-end and back-end levels of an application. 
+:man_technologist: I'm currently making a living with my programming and problem-solving skills to debug code, identifying, addressing, troubleshooting and resolving issues at both the front-end and back-end levels of an application. 
 
-My dream is to contribute code to make the world a better, safer and more unbiased place.
+:cloud:	My dream is to contribute code to make the world a better, safer and more unbiased place.
 
-Outside of tech, I love animals, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
+:family_man_woman_girl:	Outside of tech, I love animals, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
+
+![Profile views](https://gpvc.arturio.dev/jamesCodes808)
 
 ## Tech & Tools 
 
