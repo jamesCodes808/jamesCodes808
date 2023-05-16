@@ -40,8 +40,7 @@ As a full-stack developer, I understand the importance of creating a seamless fl
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 ## Other Languages & Tools used
-<img src="http://img.shields.io/badge/-dotnet-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-csharp-239120?style=flat&logo=csharp&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-dotnet-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-csharp-239120?style=flat&logo=csharp&logoColor=FFFFFF">
 
 
 
