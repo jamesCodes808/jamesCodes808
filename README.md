@@ -28,11 +28,14 @@ As a full-stack developer, I understand the importance of creating a seamless fl
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="http://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="http://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+
 
 
 
