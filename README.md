@@ -37,12 +37,7 @@ As a technical support engineer, I understand the importance of retaining client
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 ## Other Languages & Tools used
-<img src="http://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-pycharm-000000?style=flat&logo=pycharm&logoColor=white">
-<img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="http://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=white">
-<img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
+<img src="http://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-pycharm-000000?style=flat&logo=pycharm&logoColor=white"> <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=white"> <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
 
 
 
