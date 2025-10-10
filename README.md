@@ -16,7 +16,7 @@ As a full-stack developer, I understand the importance of creating a seamless fl
 
 :family_man_woman_girl:	Outside of tech, I love animals, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
 
-![Profile views](https://gpvc.arturio.dev/jamesCodes808) 
+![Profile views](https://komarev.com/ghpvc/?jamesCodes808) 
 
 ---
 
