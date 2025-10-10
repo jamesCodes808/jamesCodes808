@@ -30,24 +30,19 @@ As a technical support engineer, I understand the importance of retaining client
 <img src="http://img.shields.io/badge/-nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white">
 <img src="http://img.shields.io/badge/-C%23-99CC00?style=flat&logo=sharp&logoColor=white">
 <img src="http://img.shields.io/badge/-.Net-512BD4?style=flat&logo=.net&logoColor=white">
-<img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="http://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=white">
 <img src="http://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white">
-<img src="http://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-pycharm-000000?style=flat&logo=pycharm&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 ## Other Languages & Tools used
-<img src="http://img.shields.io/badge/-dotnet-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-csharp-239120?style=flat&logo=csharp&logoColor=FFFFFF">
-
-
-
-
+<img src="http://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-pycharm-000000?style=flat&logo=pycharm&logoColor=white">
+<img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=white">
+<img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
 
 
 
