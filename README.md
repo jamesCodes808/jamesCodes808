@@ -10,9 +10,9 @@
 
 As a technical support engineer, I understand the importance of retaining clients with great customer service and technical knowledge. I have a keen eye for details in the data, love solving and troubleshooting issues and care about the user experience. 
 
-:man_technologist: I'm currently making a living with my scripting and problem-solving skills to debug data, identifying, addressing, troubleshooting and resolving issues at both the front-end and back-end levels of an application. 
+:man_technologist: I'm currently making a living with my curiousity and problem-solving skills to debug data, identifying, addressing, troubleshooting and resolving issues at both the front-end and back-end levels of an application. 
 
-:cloud:	My dream is to become a software engineer and contribute code towards applications that help drive our society forward and help to enlighten people.
+:cloud:	My dream is to become a cyber security analyst and contribute to keeping the world and all of our personal data safe.
 
 :family_man_woman_girl:	Outside of tech, I love hiking, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
 
