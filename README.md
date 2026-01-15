@@ -12,9 +12,9 @@ As a technical support engineer, I understand the importance of retaining client
 
 :man_technologist: I'm currently making a living with my curiousity and problem-solving skills to debug data, identifying, addressing, troubleshooting and resolving issues at both the front-end and back-end levels of an application. 
 
-:cloud:	My dream is to become a cyber security analyst and contribute to keeping the world and all of our personal data safe.
+:cloud:	My dream is to become a software developer and contribute to creating unproblematic code to improve operations and innovation
 
-:family_man_woman_girl:	Outside of tech, I love hiking, videogames, traveling, eating, cooking, creating and appreciating art, playing and listening to music, and raising my daughter!
+:family_man_woman_girl:	Outside of tech, I love videogames, exploring, discovering new recipes, creating and appreciating art, playing and listening to music, and raising my daughter!
 
 ![Profile views](https://komarev.com/ghpvc/?username=jamesCodes808) 
 
